@@ -12,7 +12,7 @@ const Loader = () => {
         />
       </div>
       <p className="text-sm text-muted-foreground">
-        AI Genie is thinking...
+        Jay i is thinking...
       </p>
     </div>
   )
