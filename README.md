@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
+# [Jay i](https://jay-i.vercel.app/) Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
 
 ![Jay i](Jay-i.png)
 
