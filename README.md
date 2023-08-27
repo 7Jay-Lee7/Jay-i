@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
 
-![Jay i](https://github.com/7Jay-Lee7/Jay-i/Jay-i.png)
+![Jay i](Jay-i.png)
 
 This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
 
